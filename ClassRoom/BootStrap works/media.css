@@ -1,0 +1,16 @@
+div{width: 50%;
+background-color: chartreuse;}
+
+/* @media(min-width:600px) */
+@media(orientation:landscape)
+/* @media(orientation:portrait) */
+
+{div{
+    background-color: black;
+    color: cornsilk;
+    font-size: large;
+}
+span{
+    display: none;
+}
+}

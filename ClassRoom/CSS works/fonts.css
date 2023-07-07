@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+div{background-color: black;
+color: blueviolet;
+width: 40%;
+/* padding-left: 30px; */
+padding: 40px;
+border: 5px red solid;
+}
+
+p{font-size: medium;
+font-style: italic;
+font-family: 'Bebas Neue', cursive;
+}
+
+

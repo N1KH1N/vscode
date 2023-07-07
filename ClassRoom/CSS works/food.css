@@ -1,0 +1,40 @@
+body{background-image: url(./food/backyy.jpg);}
+body{background-size: cover;
+}
+
+.col{height: 500px;
+width: 280px;
+background-color: mediumaquamarine;
+margin-top: 20px;
+margin-left: 20px;
+float: left;
+position: relative;
+border: 3px;
+border-radius: 30px;
+border: 2px black solid;}
+
+img{width: 200px;
+height: 200px;
+margin-top: 10px;
+margin-left: 18%;}
+
+h2{text-align: center;
+color: black;
+background-color: grey;}
+
+h1{background-color:aliceblue;
+text-align: center;}
+
+h3{margin-left: 5px;}
+
+#a2{text-align: center;
+    border: 3px solid black;
+    background-color: beige;
+    margin-top: 590px;
+    width: 100px;
+    height: 60px;
+    margin-left: 47%;
+    border-radius: 150px;
+}
+
+/* #a1{position: absolute;} */

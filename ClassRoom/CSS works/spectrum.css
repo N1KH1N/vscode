@@ -1,0 +1,97 @@
+body{background-color: black;}
+
+/* h1{color: aliceblue;
+text-align: center;
+margin-top: 30px;} */
+
+div{width: 130px;
+height: 160px;}
+
+#a1{background-color: dimgrey;
+margin-left: 410px;
+margin-top: 39px;}
+
+#a2{background-color: darkolivegreen;
+    margin-left: 555px;
+    margin-top:  -160px;}
+
+#a3{background-color: darkgreen;
+    margin-left: 702px;
+    margin-top: -160px;}
+
+#a4{background-color: chartreuse;
+    margin-left: 848px;
+    margin-top: -160px;}
+        
+#a5{background-color: darkgrey;
+    margin-left: 994px;
+    margin-top: -160px;}
+        
+#a6{background-color: goldenrod;
+    margin-left: 265px;
+    margin-top: 21px;}
+
+#a7{background-color: indianred;
+    margin-left: 410px;
+    margin-top: -160px;}
+    
+#a8{background-color: deeppink;
+    margin-left: 556px;
+    margin-top: -160px;}
+
+#a9{background-color: blueviolet;
+    margin-left: 701px;
+    margin-top: -160px;}
+
+#a10{background-color: darkmagenta;
+    margin-left: 849px;
+    margin-top: -160px;}
+        
+#a11{background-color: indigo;
+    margin-left: 996px;
+    margin-top: -160px;}
+        
+#a12{background-color: darkslateblue;
+    margin-left: 1144px;
+    margin-top: -160px;}
+
+#a13{background-color: grey;
+    margin-left: 116px;
+    margin-top: 15px;}
+    
+#a14{background-color: skyblue;
+    margin-left: 265px;
+    margin-top: -159px;}
+
+#a15{background-color: aquamarine;
+    margin-left: 410px;
+    margin-top: -160px;}
+
+#a16{background-color: lightsalmon;
+    margin-left: 556px;
+    margin-top: -160px;}
+        
+#a17{background-color: fuchsia;
+    margin-left: 702px;
+    margin-top: -160px;}
+        
+#a18{background-color: maroon;
+    margin-left: 850px;
+    margin-top: -160px;}
+
+#a19{background-color: aqua;
+    margin-left: 996px;
+    margin-top: -160px;}
+    
+#a20{background-color: rebeccapurple;
+    margin-left: 1144px;
+    margin-top: -160px;}
+
+#a21{background-color: purple;
+    margin-left: 1290px;
+    margin-top: -160px;}
+
+/* #a1{background-color: darkcyan;
+    margin-left: 100px;
+    margin-top: 50px;} */
+        

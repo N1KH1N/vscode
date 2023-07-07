@@ -1,0 +1,16 @@
+.parent{height: 500px;
+/* background-color: cornflowerblue; */
+display: flex;
+justify-content: space-evenly;  /*  works horizondally */
+align-items: center;}  /*  works vertically */
+
+.col{width: 300px;height: 380px;
+border: 3px black;}
+
+.col-1{background-color: aqua;}
+
+.col-2{background-color: blueviolet;}
+
+.col-3{background-color: chocolate;}
+
+.col-4{background-color: deeppink;}

@@ -1,0 +1,25 @@
+div{width: 200px;
+height: 100px;
+background-color: yellow;
+margin-top: 200px;
+margin-left: 300px;
+/* animation: anime 5s ease-in-out 1s infinite; */
+transition: 1s ease-in;
+}
+/* div:hover{transform: translateY(200px) rotate(45deg); */
+div:hover{transform: matrix(90deg);
+scale: .5;}
+
+/* @keyframes anime{
+    /* from{
+        width: 5px;
+    }
+    to{width: 500px;
+    background-color: red;} */
+    /* 0%{
+        width: 5px;background-color: greenyellow;
+    }50%{width: 500px;
+    background-color: orange;}
+    100%{width: 0px;
+    background-color: red;}
+}  */

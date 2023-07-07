@@ -1,0 +1,6 @@
+front end
+
+html  --  content loading
+css  --  designing
+bootstrap  --  framework of css
+javascript  --  converts to dynamic webpage

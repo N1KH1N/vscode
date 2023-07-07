@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+<body>
+    <div class="row mt-5">
+        <div class="col-4"></div>
+        <div class="col-4" style="text-align: center;">
+            <h2><strong>Body Shape Calculator</stron></h2>
+            <div><input type="text" placeholder="Enter Your tummy size" id="id_tummy" class="form-control mt-4"></div>
+            <div><input type="text" placeholder="Enter Your buttock size" id="id_buttock" class="form-control mt-3 mb-3"></div>
+            <div>
+                <label for="gen">Select Your Gender </label>
+                <select name="gen" id="id_gen">
+                    <option value="">-- select --</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div><input type="button" value="Calculate BMI" class="form-control mt-3 btn btn-outline-success" onclick="calculator()"></div>
+        </div>
+        <div class="col-4"></div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-4"></div>
+        <div class="col-4" id="id_result"></div>
+        <div class="col-4"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

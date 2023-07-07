@@ -1,0 +1,18 @@
+.col{width: 300px;height: 300px;
+border: black 3px;
+position: absolute;
+top: 100px;}
+
+.col-1{background-color: aqua;
+left: 380px;}
+
+.col-2{background-color:blueviolet;
+left: 700px;}
+
+.col-3{background-color: maroon;
+left: 1000px;}
+
+.col-4{background-color: gold;
+left: 50px;}
+
+cold{}
